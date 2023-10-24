@@ -6,7 +6,7 @@
 >> My Linkedin Profile: https://www.linkedin.com/in/aryan-yash-41b6a7256/
 >> email: aryanyashishere@gmail.com
 
-<img src="images\temp3.jpg" >
+<img src="temp3.jpg" style = "height =50%">
 
 )
 
