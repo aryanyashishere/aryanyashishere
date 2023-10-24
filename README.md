@@ -6,8 +6,7 @@
 >> My Linkedin Profile: https://www.linkedin.com/in/aryan-yash-41b6a7256/
 >> email: aryanyashishere@gmail.com
 
-![](temp3.jpg | width=100)
-)
+<img src ="temp3.jpg" width="200" height="400"> 
 
 <!---
 aryanyashishere/aryanyashishere is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
